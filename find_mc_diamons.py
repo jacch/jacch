@@ -37,13 +37,17 @@ class mic:
                 if block.id==item:
                     result =1
       if result==1:
-        retuen true
+        return true
       else
         return false
         
+
+accountid='jacch'
+blockid=56
         
 m=mic()
-m.playerid('jacch') 
+m.playerid(accountid) 
 m.playerpostion()
-m.find_item(2)
+find_result=m.find_item(blockid)
+
 
