@@ -9,3 +9,6 @@ https://github.com/zhuowei/RaspberryJuice
 目前看起來不還未支援1.13,目前spigot都還未支援1.13.
 
 程式碼目前是使用python來叫用
+
+#更新用來改造用來支援找到附近有什麼礦石
+python find_mc_diamons.py
